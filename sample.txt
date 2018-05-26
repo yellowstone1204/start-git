@@ -2,4 +2,6 @@ sample.txtサルでもわかるGitコマンド
 
 
 
-サードコミット
+サードコミットHunkコミット
+Hunkコミット
+Hunkコミット
